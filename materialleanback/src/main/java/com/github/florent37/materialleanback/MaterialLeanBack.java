@@ -175,4 +175,7 @@ public class MaterialLeanBack extends FrameLayout {
         }
 
     }
+    public RecyclerView getRecyclerView(){
+        return recyclerView;
+    }
 }
